@@ -37,6 +37,11 @@ The objectives of this project were to:
 - Improve productivity while balancing cost and time constraints
 
 ---
+## Pharmaceutical Product Development Process
+
+The diagram below illustrates the end-to-end pharmaceutical new product development process analyzed in this project.
+
+![Pharmaceutical Product Development Process](images/01_pharmaceutical_product_development_process.png)
 
 ## Methodology
 
