@@ -2,11 +2,9 @@
 
 ## Project Overview
 
-The pharmaceutical industry operates in a highly competitive and complex environment where successful new product development requires effective coordination of multidisciplinary teams and efficient utilization of specialized human resources.
+A large-scale business process optimization and decision-support project in the pharmaceutical industry, focused on analyzing complex workflows, improving resource allocation, and developing data-driven solutions for operational efficiency.
 
-This project was developed at Biosun Pharmed Company to address labor allocation and productivity improvement challenges within new product development processes.
-
-The project focused on analyzing existing processes, identifying resource planning challenges, and developing an optimization-based decision support model to improve labor utilization, reduce costs, and enhance operational efficiency.
+The project was developed to address workforce planning and resource allocation challenges in pharmaceutical new product development processes.
 
 ---
 
